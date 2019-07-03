@@ -1,0 +1,12 @@
+.header-section {
+  display: flex;
+  flex: 1 0 100%;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+
+  h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: underline;
+  }
+}
